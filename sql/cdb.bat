@@ -1,0 +1,1 @@
+db2 -t -v -f create_base.sql -z create_base.log
